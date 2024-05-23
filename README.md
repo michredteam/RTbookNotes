@@ -41,7 +41,8 @@ Welcome to the Red Teaming Repository!
 
 This repository is intended for those interested in red teaming and will also serve as a reference for my upcoming book, which will be released soon. 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31muh6o4q22ch45ii33ajackeb6m)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31muh6o4q22ch45ii33ajackeb6m&unique={true|1|on|yes})
 
 ## What You'll Find Here
 
