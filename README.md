@@ -1,9 +1,47 @@
-# RTbookNotes
+<br clear="both">
+
+<h2 align="center">RTbookNotes</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michredteam&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+
+
+
+
 This repository is intended for those interested in red teaming and will also serve as a reference for my upcoming book, which will be released soon.
 
 Welcome to the Red Teaming Repository!
 
 This repository is intended for those interested in red teaming and will also serve as a reference for my upcoming book, which will be released soon. 
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31muh6o4q22ch45ii33ajackeb6m)
 
 ## What You'll Find Here
 
