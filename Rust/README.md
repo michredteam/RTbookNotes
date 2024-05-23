@@ -1,5 +1,5 @@
 
-# OffensiveRust
+# RTbookNotes / Rust
 
 My experiments in weaponizing [Rust](https://www.rust-lang.org/) for implant development and general offensive operations.  
 
