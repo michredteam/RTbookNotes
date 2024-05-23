@@ -1,5 +1,3 @@
-![687474703a2f2f7777342e73696e61696d672e636e2f736d616c6c2f6136393561636465677731663364657a323037717567323034733034786e61642e676966](https://github.com/michredteam/RTbookNotes/assets/168865716/c10b99e7-7821-4ac8-abfb-5e580be707d8)
-
 # RTbookNotes
 This repository is intended for those interested in red teaming and will also serve as a reference for my upcoming book, which will be released soon.
 
