@@ -7,16 +7,9 @@ My experiments in weaponizing [Rust](https://www.rust-lang.org/) for implant dev
 
 - [OffensiveRust](#offensiverust)
   * [Why Rust?](#why-rust)
-  * [Examples in this repo](#examples-in-this-repo)
   * [Compiling the examples](#compiling-the-examples-in-this-repo)
-  * [Compiling the examples in this repo](#Compiling-the-examples-in-this-repo)
-  * [Cross Compiling](#cross-compiling)
-  * [Optimizing executables for size](#optimizing-executables-for-size)
-  * [Pitfalls I found myself falling into](#pitfalls-i-found-myself-falling-into)
-  * [Interesting Rust Libraries](#interesting-Rust-libraries)
   * [Opsec](#Opsec)
-  * [Other projects I have have made in Rust](#Other-projects-I-have-made-in-Rust)
-  * [Projects in Rust that can be hepfull ](#Projects-in-Rust-that-can-be-hepfull )
+
 
 ## Why Rust?
 
