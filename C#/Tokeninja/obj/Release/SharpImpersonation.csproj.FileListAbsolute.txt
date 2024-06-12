@@ -1,0 +1,10 @@
+C:\Users\silen\Documents\GitHub\SharpImpersonation\SharpImpersonation\bin\Release\SharpImpersonation.exe.config
+C:\Users\silen\Documents\GitHub\SharpImpersonation\SharpImpersonation\bin\Release\SharpImpersonation.exe
+C:\Users\silen\Documents\GitHub\SharpImpersonation\SharpImpersonation\bin\Release\SharpImpersonation.pdb
+C:\Users\silen\Documents\GitHub\SharpImpersonation\SharpImpersonation\bin\Release\System.Management.Automation.dll
+C:\Users\silen\Documents\GitHub\SharpImpersonation\SharpImpersonation\obj\Release\SharpImpersonation.csproj.AssemblyReference.cache
+C:\Users\silen\Documents\GitHub\SharpImpersonation\SharpImpersonation\obj\Release\SharpImpersonation.csproj.SuggestedBindingRedirects.cache
+C:\Users\silen\Documents\GitHub\SharpImpersonation\SharpImpersonation\obj\Release\SharpImpersonation.csproj.CoreCompileInputs.cache
+C:\Users\silen\Documents\GitHub\SharpImpersonation\SharpImpersonation\obj\Release\SharpImpersonation.csproj.CopyComplete
+C:\Users\silen\Documents\GitHub\SharpImpersonation\SharpImpersonation\obj\Release\SharpImpersonation.exe
+C:\Users\silen\Documents\GitHub\SharpImpersonation\SharpImpersonation\obj\Release\SharpImpersonation.pdb
