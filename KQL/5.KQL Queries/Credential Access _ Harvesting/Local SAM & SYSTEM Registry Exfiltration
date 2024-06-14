@@ -1,0 +1,15 @@
+// Example Attack Tactic - reg save HKLM\SAM sam.hive || reg save HKLM\SYSTEM system.hive
+
+## Query
+
+DeviceProcessEvents
+| where Timestamp > ago(7d)
+| where FileName =~ 'reg.exe'
+    and ProcessCommandLine has 'save'
+    and ProcessCommandLine has 'hklm'
+    and ProcessCommandLine has 'sam'
+    and ProcessCommandLine has 'system'
+| project DeviceId, Timestamp, InitiatingProcessId, 
+InitiatingProcessFileName, ProcessId, FileName, ProcessCommandLine,ReportId
+
+
