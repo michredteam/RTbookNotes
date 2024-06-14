@@ -1,30 +1,15 @@
 # Threat hunting/detecting using KQL queries
 
-[![Share on X](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=KQL%20Threat%20Hunting%20Queries%20by%20@cyb3rmik3&url=https://github.com/cyb3rmik3/KQL-threat-hunting-queries) [![Follow @cyb3rmik3](https://img.shields.io/twitter/follow/cyb3rmik3)](https://twitter.com/cyb3rmik3)
-
 ```
-  _  _____  _       _____ _   _ ____  _____    _  _____   _   _ _   _ _   _ _____ ___ _   _  ____ 
- | |/ / _ \| |     |_   _| | | |  _ \| ____|  / \|_   _| | | | | | | | \ | |_   _|_ _| \ | |/ ___|
- | ' | | | | |       | | | |_| | |_) |  _|   / _ \ | |   | |_| | | | |  \| | | |  | ||  \| | |  _ 
- | . | |_| | |___    | | |  _  |  _ <| |___ / ___ \| |   |  _  | |_| | |\  | | |  | || |\  | |_| |
- |_|\_\__\_|_____|   |_| |_| |_|_| \_|_____/_/   \_|_|   |_| |_|\___/|_| \_| |_| |___|_| \_|\____|
+  _  _____  _       
+ | |/ / _ \| |     
+ | ' | | | | |       
+ | . | |_| | |___   
+ |_|\_\__\_|_____|   
                                                                                                          
 ```                                                                                             
 
-> [!NOTE]  
-> Jan. 27th: After almost a year of contributions, this repository is undergoing a heavy rebuild to meet the current community landscape and also, a far more better contextualization in order to keep contributing.
-                                                                                             
-This repository is an effort to provide ready-made detection and hunting queries (and more) in order to help analysts and threat hunters harness the power of KQL in Microsoft Sentinel and Microsoft Defender XDR. 
-- [KQL Training](#kql-training)
-- [KQL Basics](#kql-basics)
-- [Threat Hunting Basics](#threat-hunting-basics)
-- [KQL Community](#kql-community)
 
-Please:
-- Read the [Disclaimer](#disclaimer) below.
-- If you found a useful query here, consider giving a :star: to this repository.
-
-Enjoy, and please reach out for any concerns and suggestions: [cyb3rmik3](https://twitter.com/Cyb3rMik3).
 
 ---
 # KQL Training
@@ -116,15 +101,3 @@ Contributing and sharing within the community is paramount as it fosters a colla
 
 [KQL Search](https://www.kqlsearch.com/) is a project created by [Ugur Koc](https://github.com/ugurkocde) which aggregates GitHub repos from KQL community members that contribute queries for Microsoft Sentinel and Microsoft Defender XDR. This repo is also included along with other respectful members effort to build better defenses with the Microsoft Security stack.
 
-### Bookmarks
-- [KQL Cafe](https://github.com/KQLCafe/website/blob/gh-pages/index.md)
-- [Kusto Insights Newsletter](https://kustoinsights.substack.com/)
-- [KQL Query Blog](https://kqlquery.com/)
-- [KustoKing](https://www.kustoking.com/)
-- [Ashwin Patil](https://github.com/ashwin-patil/blue-teaming-with-kql)
-- [seccnet](https://github.com/secnnet/Microsoft-365-Defender-Hunting-Queries/blob/main/Top%20Hunting%20Queries.txt)
-- [ml58158, Demystiftying KQL](https://github.com/ml58158/Demystifying-KQL/)
-
----
-> [!WARNING]  
-> The KQL queries in this GitHub repository are provided for informational purposes only. Users are solely responsible for their usage and should exercise caution. It is advised to thoroughly understand and test the queries before implementing them in a production environment.
