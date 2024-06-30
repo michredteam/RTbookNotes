@@ -1,0 +1,9 @@
+Process Enumeration Report
+--------------------------
+PID: 4348	Session: 0	Threads: 53	Handles: 781	Name: MsMpEng.exe	SID: S-1-5-18
+PID: 9424	Session: 1	Threads: 48	Handles: 981	Name: Discord.exe	SID: S-1-5-21-1058115970-3636120404-2545271429-1001
+PID: 11472	Session: 1	Threads: 7	Handles: 194	Name: Discord.exe	SID: S-1-5-21-1058115970-3636120404-2545271429-1001
+PID: 14244	Session: 1	Threads: 30	Handles: 754	Name: Discord.exe	SID: S-1-5-21-1058115970-3636120404-2545271429-1001
+PID: 14156	Session: 1	Threads: 13	Handles: 295	Name: Discord.exe	SID: S-1-5-21-1058115970-3636120404-2545271429-1001
+PID: 16008	Session: 1	Threads: 48	Handles: 1006	Name: Discord.exe	SID: S-1-5-21-1058115970-3636120404-2545271429-1001
+PID: 15744	Session: 1	Threads: 7	Handles: 291	Name: Discord.exe	SID: S-1-5-21-1058115970-3636120404-2545271429-1001
